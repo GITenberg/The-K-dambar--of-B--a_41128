@@ -1,0 +1,56 @@
+_repo: The-K-dambar--of-B--a_41128
+_version: 0.1.0
+alternative_title: The Kadambari of Bana
+contributor:
+  translator:
+    agent_name: Ridding, C. M. (Caroline Mary)
+    aliases:
+    - Ridding, Mary
+    - Ridding, Caroline Mary
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '40995'
+    url: http://www.gutenberg.org/2009/agents/40995
+covers:
+- cover_type: archival
+  image_path: 41128-h/images/new-cover-tn.jpg
+creator:
+  authors:
+  - agent_name: Bhūṣaṇabhaṭṭa
+    aliases:
+    - Bhatta, Bhusana
+    - Bhūshaṇabhaṭṭa
+    - Bhaṭṭa, Bhūṣaṇa
+    - Bhushana-Bhatta
+    - Bhūshaṇa-Bhaṭṭa
+    - Bhushanabhatta
+    - Bhusanabhatta
+    gutenberg_agent_id: '40994'
+    url: http://www.gutenberg.org/2009/agents/40994
+  - agent_name: Bāṇa‏
+    aliases:
+    - Pāṇapaṭṭar
+    - Banabhatta
+    - Panapattar
+    - Bāṇabhaṭṭa
+    - Bāṇa Bhaṭṭa
+    - Pāṇavattar
+    - Panavattar
+    gutenberg_agent_id: '40993'
+    url: http://www.gutenberg.org/2009/agents/40993
+    wikipedia: https://en.wikipedia.org/wiki/B%C4%81%E1%B9%87abha%E1%B9%AD%E1%B9%ADa
+description: ''
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reincarnation -- Fiction'
+- !lcc 'PK'
+- !lcsh 'Sanskrit fiction -- Translations into English'
+title: The Kādambarī of Bāṇa
+url: http://www.gutenberg.org/ebooks/41128
