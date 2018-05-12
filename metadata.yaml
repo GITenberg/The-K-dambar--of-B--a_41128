@@ -40,6 +40,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40993
     wikipedia: https://en.wikipedia.org/wiki/B%C4%81%E1%B9%87abha%E1%B9%AD%E1%B9%ADa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41128#The-K-dambar--of-B--a
 gutenberg_issued: '2012-10-21'
 gutenberg_type: Text
 identifiers:
